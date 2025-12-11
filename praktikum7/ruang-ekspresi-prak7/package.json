@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/2400016067-max/2400016067_Imam_Faqih_Masduqi_praktikum_A",
+  "homepage": "https://2400016067-max.github.io/2400016067_Imam_Faqih_Masduqi_praktikum_A/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
